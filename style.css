@@ -17,3 +17,13 @@ p{
     border: 2px solid black;
     height: 20%;
 }
+
+.itens{
+    font-style: italic;
+
+}
+
+.benefícios{
+    background-color: black;
+    text-align: left;
+}
