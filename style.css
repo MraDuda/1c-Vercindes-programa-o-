@@ -20,10 +20,12 @@ p{
 
 .itens{
     font-style: italic;
+    font-size: 20%;
 
 }
 
 .benefícios{
     background-color: black;
     text-align: left;
+    font-size: 20%;
 }
