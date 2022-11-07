@@ -20,14 +20,15 @@ p{
 
 .itens{
     font-style: italic;
-    font-size: 20%;
+    font-size: 25px;
 
 }
 
 .Benefícios{
-    background-color: blue;
+    background-color: darkcyan;
     text-align: left;
-    font-size: 20%;
+    font-size: 25px;
+    padding: 20px;
 }
 
 ul{
@@ -36,4 +37,6 @@ ul{
     margin: 3%;
     list-style: circle;
     text-align: center;
+    width: 20%;
+    margin-right: 15%;
 }
